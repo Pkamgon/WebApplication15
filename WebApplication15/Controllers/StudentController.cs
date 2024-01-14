@@ -7,6 +7,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 using System.Data.Entity;
 using WebApplication15.Models;
+using System.Runtime.CompilerServices;
 
 namespace WebApplication15.Controllers
 {
